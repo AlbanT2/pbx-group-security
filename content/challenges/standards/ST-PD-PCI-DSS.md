@@ -6,14 +6,15 @@ area        : standards
 skills      : PCI DSS, Compliance, Security
 ---
 
-Define your involvement with PCI/DSS;
+Define your involvement with PCI-DSS;
 
- - Have you been involved in a PCI/DSS certification process
+ - In what where you involved in a PCI-DSS certification process
  - What are your views of this standard?
-    - Current version vs original versions
-    - What is new/interesting in the latest version?
- - Where does PCI/DSS work?
+ - What is new/interesting in the current version?
+    - What points are the most challenging to implement?
+    - what points in your view is not needed? 
+ - Where does PCI-DSS work?
     - Where doesn't it work?
     - What would you do better?
- - Should PCI/DSS be a company wide standard for websites that handle customer data?
+ - Should PCI-DSS be a company wide standard for websites that handle customer data?
 
